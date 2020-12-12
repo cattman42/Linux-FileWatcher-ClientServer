@@ -1,7 +1,3 @@
-                /* LEFT OFF ~64, WORKING ON SETTING UP SERVER DIRECTORY 
-                +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-                ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-                */
 #include "csapp.h"
 #include "sys/types.h"
 #include <sys/stat.h>
